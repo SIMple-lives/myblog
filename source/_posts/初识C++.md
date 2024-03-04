@@ -1832,7 +1832,6 @@ void test()
 
 ### 原理深度剖析
 
-![image-20240203092344044](/home/future/.config/Typora/typora-user-images/image-20240203092344044.png)
 
 ```c++
 class Animal
