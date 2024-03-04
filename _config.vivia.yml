@@ -44,8 +44,8 @@ sidebar:
     sticky:                # Stick to the top of the page
       - category
       - tag
-#      - archive
-#      - recent_posts
+      - archive
+      - recent_posts
 
 # Sidebar Widget behavior
 archive_type: 'monthly'
