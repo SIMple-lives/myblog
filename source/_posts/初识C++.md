@@ -1,5 +1,5 @@
 ---
-title : Learn C++
+title : Learn Cpp
 ---
 
 # C++初始
