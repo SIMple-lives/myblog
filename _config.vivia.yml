@@ -13,16 +13,16 @@ favicon:                   # Path to the custom favicon relative to /source (e.g
 # Banner
 banner:
   enable: true                  # Display banner
-  url: https://c.wallhere.com/photos/fc/59/AI_generated_Midjourney_AI_AI_star_fall_night_full_moon_meteor_streak_stars-2162555.jpg!d                    # Path to the banner image relative to /source. Web url is also supported
+  url: https://pic1.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_r.jpg                    # Path to the banner image relative to /source. Web url is also supported
   position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true               # Display banner on all pages instead of only the home page
 
 # Appearance
-hue: 60                         # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
+hue: 215                         # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
                                  # Visit `saicaca.github.io/vivia-preview` to preview the theme color
 
 # Personal info
-avatar: https://w.wallhaven.cc/full/yx/wallhaven-yx363x.png                            # Path to the avatar image relative to /source
+avatar: https://img.3dmgame.com/uploads/images/news/20210810/1628580717_867330.jpg                            # Path to the avatar image relative to /source
 author: future
 subtitle: Hang on to your dreams !
 links:
