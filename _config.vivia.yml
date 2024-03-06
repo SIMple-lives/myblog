@@ -24,7 +24,7 @@ hue: 60                         # The hue of the theme color (e.g. red: 0, orang
 # Personal info
 avatar: https://w.wallhaven.cc/full/yx/wallhaven-yx363x.png                            # Path to the avatar image relative to /source
 author: future
-subtitle: This is the subtitle
+subtitle: Hang on to your dreams !
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
@@ -77,5 +77,3 @@ comment:
 gauges_analytics: false
 google_analytics: false #UA-xxxxxx
 baidu_analytics: false # ddxxxxxxxxxxxxxxxxx In the https://hm.baidu.com/hm.js? Afterwards
-
-
