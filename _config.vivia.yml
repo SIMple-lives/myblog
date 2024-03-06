@@ -13,7 +13,7 @@ favicon:                   # Path to the custom favicon relative to /source (e.g
 # Banner
 banner:
   enable: true                  # Display banner
-  url: https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg                    # Path to the banner image relative to /source. Web url is also supported
+  url: https://c.wallhere.com/photos/fc/59/AI_generated_Midjourney_AI_AI_star_fall_night_full_moon_meteor_streak_stars-2162555.jpg!d                    # Path to the banner image relative to /source. Web url is also supported
   position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true               # Display banner on all pages instead of only the home page
 
