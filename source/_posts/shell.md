@@ -1,7 +1,9 @@
 ---
 title: shell 笔记
 date: 2024-03-29
-tags: plan 
+tags: 
+- plan
+- linux 
 category : plan
 ---
 

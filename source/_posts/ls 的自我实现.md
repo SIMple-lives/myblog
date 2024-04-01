@@ -1,6 +1,10 @@
 ---
 title: ls的自我实现
 date: 2024-03-04
+tag : 
+- linux
+- plan
+category : plan
 ---
 
 # myls

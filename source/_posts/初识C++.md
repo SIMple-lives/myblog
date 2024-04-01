@@ -1,6 +1,9 @@
 ---
 title : Learn Cpp
 date: 2024-03-04
+tag:
+- grammar
+category : notes
 ---
 
 # C++初始
