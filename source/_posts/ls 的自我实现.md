@@ -1,4 +1,5 @@
 ---
+photo: https://tse3-mm.cn.bing.net/th/id/OIP-C.MqIb7KK4lnM8yGAtJwyTxwHaEo?w=275&h=180&c=7&r=0&o=5&pid=1.7
 title: ls的自我实现
 date: 2024-03-04
 tag : 

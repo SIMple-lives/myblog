@@ -1,4 +1,5 @@
 ---
+photo: https://images2.alphacoders.com/232/thumbbig-232500.webp
 title: 一次简单的分享
 date: 2024-3-17
 tag:

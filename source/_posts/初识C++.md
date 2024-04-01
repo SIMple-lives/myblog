@@ -1,4 +1,5 @@
 ---
+photo: https://images4.alphacoders.com/146/thumbbig-146484.webp
 title : Learn Cpp
 date: 2024-03-04
 tag:
