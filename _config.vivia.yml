@@ -14,7 +14,7 @@ favicon:                   # Path to the custom favicon relative to /source (e.g
 # Banner
 banner:
   enable: true                  # Display banner
-  url: https://pic1.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_r.jpg                    # Path to the banner image relative to /source. Web url is also supported
+  url: https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg                    # Path to the banner image relative to /source. Web url is also supported
   position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true               # Display banner on all pages instead of only the home page
 

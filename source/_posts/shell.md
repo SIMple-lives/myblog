@@ -1,11 +1,22 @@
 ---
+photos: https://saicaca.github.io/vivia-preview/assets/79905307_p0.jpg
 title: shell 笔记
 date: 2024-03-29
 tags: 
 - plan
 - linux 
-category : plan
+category: plan
 ---
+hover to see the title text:
+
+Inline-style:
+
+![alt text](https://hexo.io/icon/favicon-196x196.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://hexo.io/icon/favicon-196x196.png "Logo Title Text 2"
 
 
 # shell
