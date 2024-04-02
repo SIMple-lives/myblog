@@ -10,6 +10,6 @@ title: Friends's Link
 
 ​		Ph0m's space------Live a good life meet slowly.
 
-* [云间的小小世间](https://yunjianworld.fun/)
+* [云间世间](https://yunjianworld.fun/)
 
-​		云间时间------顺着风的方向.
+​		云间世界------顺着风的方向.
