@@ -1,7 +1,7 @@
 ---
 photo: https://www.educative.io/v2api/editorpage/6705609052258304/image/6189857970847744
 title: c++ thread notes
-time: 2024-4-9
+date: 2024-4-9
 tag:
 - notes
 - thread
