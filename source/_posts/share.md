@@ -1,5 +1,5 @@
 ---
-photo: https://images2.alphacoders.com/232/thumbbig-232500.webp
+photo: https://pic4.zhimg.com/v2-6ad2432079a2edf64a8beb6edd7bf07b_r.jpg
 title: 一次简单的分享
 date: 2024-3-17
 tag:
