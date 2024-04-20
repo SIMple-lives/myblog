@@ -1,5 +1,5 @@
 ---
-photos: https://saicaca.github.io/vivia-preview/assets/79905307_p0.jpg
+photos: https://pic3.zhimg.com/80/v2-d71044f62bd24e97895368f19177b26e_720w.webp
 title: shell 笔记
 date: 2024-03-29
 tags: 

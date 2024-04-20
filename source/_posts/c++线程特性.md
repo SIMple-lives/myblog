@@ -1,5 +1,5 @@
 ---
-photo: https://www.educative.io/v2api/editorpage/6705609052258304/image/6189857970847744
+photo: https://pic4.zhimg.com/80/v2-f7583e2a3309d73b22ee12084dd1d6c3_720w.webp
 title: c++ thread notes
 date: 2024-04-09
 tag:
