@@ -1,4 +1,5 @@
 ---
+photo: https://pic3.zhimg.com/80/v2-cf270a431d019a13352ae9de3aa6d732_1440w.webp
 title: lambda
 date: 2024-05-10
 tag:
