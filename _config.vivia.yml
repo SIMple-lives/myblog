@@ -14,7 +14,7 @@ favicon:                   # Path to the custom favicon relative to /source (e.g
 # Banner
 banner:
   enable: true                  # Display banner
-  url: https://file.uhsea.com/2404/2f89dad673c07fb004d205168d3093efAO.png                    # Path to the banner image relative to /source. Web url is also supported
+  url: https://pic2.zhimg.com/80/v2-90425d47dd87931c7efacec87c2678e1_1440w.webp                    # Path to the banner image relative to /source. Web url is also supported
   position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true               # Display banner on all pages instead of only the home page
 
@@ -23,7 +23,7 @@ hue: 270                         # The hue of the theme color (e.g. red: 0, oran
                                  # Visit `saicaca.github.io/vivia-preview` to preview the theme color
 
 # Personal info
-avatar: https://pic2.zhimg.com/v2-fc348d5e926116782149d2151dc09834.jpg                            # Path to the avatar image relative to /source
+avatar: https://pic4.zhimg.com/80/v2-73e601f604e67471f220b819fd245d77_1440w.webp                            # Path to the avatar image relative to /source
 author: future
 subtitle: Hang on to your dreams !
 links:
