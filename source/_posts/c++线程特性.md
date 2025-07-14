@@ -1,5 +1,4 @@
 ---
-photo: https://pic4.zhimg.com/80/v2-f7583e2a3309d73b22ee12084dd1d6c3_720w.webp
 title: c++ thread notes
 date: 2024-04-09
 tag:

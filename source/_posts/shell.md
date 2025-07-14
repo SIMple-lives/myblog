@@ -1,5 +1,5 @@
 ---
-photos: https://pic3.zhimg.com/80/v2-d71044f62bd24e97895368f19177b26e_720w.webp
+photo: https://pub-a7510641c4c0427886fce394cb093861.r2.dev/shell.png
 title: shell 笔记
 date: 2024-03-29
 tags: 

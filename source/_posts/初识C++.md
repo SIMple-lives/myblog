@@ -1,5 +1,5 @@
 ---
-photo: https://pic4.zhimg.com/v2-e0ae18f9b5836cbf65be9d81ecdd09c7_r.jpg
+photo: https://pub-a7510641c4c0427886fce394cb093861.r2.dev/code.png
 title : Learn Cpp
 date: 2024-03-04
 tag:

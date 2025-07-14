@@ -1,5 +1,4 @@
 ---
-photo: https://pic4.zhimg.com/v2-4b4927b5ee17fca96e0ba6162dcce412_r.jpg
 title: ls的自我实现
 date: 2024-03-04
 tag : 
