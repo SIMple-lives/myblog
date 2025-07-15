@@ -11,6 +11,7 @@ category:
 
 # Integrate KTextEditor into Cantor
 
+
 ## Project Introduction
 
 [Cantor](https://apps.kde.org/cantor/) is a powerful scientific computing front-end in the KDE ecosystem, providing users with a unified and friendly interface for mathematical and statistical analysis.
@@ -18,6 +19,8 @@ category:
 Currently, Cantor's worksheet cells are based on a custom implementation using `QTextDocument`. While this approach meets basic needs, it has revealed its limitations in terms of feature expansion and long-term maintenance. To fundamentally enhance the editing experience, simplify the codebase, and embrace the advanced technology of the KDE Frameworks, this project plans to deeply integrate the feature-rich **KTextEditor** component into Cantor, completely replacing the existing cell implementation.
 
 This core upgrade will bring a suite of long-awaited, powerful features to Cantor, including:
+
+* **Enhanced Multi-line Editing**: Significantly improves the editing experience for complex, multi-line code blocks. This includes more robust syntax highlighting, accurate bracket matching, and a more stable editing environment, resolving key issues present in the current implementation.
 
 - **Vi Mode**: Provides native Vi-style text editing for users accustomed to Vim's efficient workflow, significantly improving editing speed.
 - **Improved Syntax Highlighting**: Supports more comprehensive and precise code coloring rules, making complex mathematical and programming expressions clearer and easier to read.
@@ -47,11 +50,15 @@ The first phase of the project has been completed. We have successfully introduc
 
   ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/basic.png)
 
+  - multi-line display
+
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/mutile.png)
+
 - **integration of KTextEditor features**：Basic syntax highlighting and text editing features are now available in new cells.
 
   - `Python`
 
-  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/syntax_python.png)
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/image.png)
 
   - `Maxima`
 
