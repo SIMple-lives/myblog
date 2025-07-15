@@ -3,7 +3,7 @@ photo: https://apps.kde.org/app-icons/org.kde.cantor.svg
 title: Integrate KTextEditor into Cantor
 date: 2025-07-15
 tag:
-- memory
+- gsoc
 category: 
 - notes
 - c++
