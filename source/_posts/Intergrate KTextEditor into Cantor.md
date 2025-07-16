@@ -76,7 +76,7 @@ The first phase of the project has been completed. We have successfully introduc
 
 * `shotcut key`
 
-![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/2025-07-15%2011-51-34.gif)
+![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/1.gif)
 
 
 
