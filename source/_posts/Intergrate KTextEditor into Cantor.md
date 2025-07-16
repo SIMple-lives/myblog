@@ -4,9 +4,11 @@ title: Integrate KTextEditor into Cantor
 date: 2025-07-15
 tag:
 - gsoc
+- KDE
 category: 
 - notes
 - c++
+- Qt
 ---
 
 # Integrate KTextEditor into Cantor
