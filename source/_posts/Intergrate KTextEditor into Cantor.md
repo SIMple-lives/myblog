@@ -48,27 +48,31 @@ The first phase of the project has been completed. We have successfully introduc
 
   - short text
 
-  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/basic.png)
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/2.png)
 
   - multi-line display
 
-  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/mutile.png)
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/For%20long%20text%2C%20we%20can%20use%20multiple%20cells%20to%20display%20and%20run%20(3).png)
 
 - **integration of KTextEditor features**：Basic syntax highlighting and text editing features are now available in new cells.
 
   - `Python`
 
-  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/image.png)
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/python.png)
 
   - `Maxima`
 
-  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/syntax_maxima.png)
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/maxima3.png)
+  
+  * `Lua`
+  
+  ![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/lua.png)
 
 **Event Handling and UI Interaction**: Core user interactions such as mouse events and drag-and-drop functionality for worksheet entries are working as expected within the new framework.
 
 * `drag`
 
-![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/drag.png)
+![](https://pub-a7510641c4c0427886fce394cb093861.r2.dev/dr.png)
 
 * `shotcut key`
 
