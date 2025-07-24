@@ -1,10 +1,6 @@
 ---
 title: 解析QGraphicsProxyWidget的桥接作用
-date: 2024-05-10
-tag:
-- c++
-- qt
-category: notes
+date: 2025-07-17
 ---
 
 # 解析QGraphicsProxyWidget的桥接作用
